@@ -1,0 +1,4 @@
+<?php
+
+$MESS['C_SEARCH_TITLE_POPUP_1_PLACEHOLDER'] = 'Site search';
+$MESS['C_SEARCH_TITLE_POPUP_1_BUTTON'] = 'Search';
